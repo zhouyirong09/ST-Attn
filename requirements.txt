@@ -249,7 +249,7 @@ twine==1.13.0
 typed-ast==1.1.0
 ujson==1.35
 uritemplate==3.0.0
-urllib3==1.24.2
+urllib3==1.26.5
 virtualenv==16.4.3
 virtualenv-clone==0.4.0
 wcwidth==0.1.7
