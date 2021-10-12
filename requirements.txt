@@ -136,7 +136,7 @@ numexpr==2.6.9
 numpy==1.16.2
 numpydoc==0.9.1
 oauthlib==2.1.0
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 osmnx==0.8.2
 packaging==18.0
 padme==1.1.1
