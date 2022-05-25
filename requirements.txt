@@ -171,7 +171,7 @@ pycparser==2.19
 pydocstyle==3.0.0
 pyflakes==2.1.1
 Pygments==2.3.1
-PyJWT==1.6.4
+PyJWT==2.4.0
 pykg2vec==0.0.46
 pylint==2.1.1
 pymongo==3.8.0
