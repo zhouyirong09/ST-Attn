@@ -119,7 +119,7 @@ MarkupSafe==1.1.1
 matplotlib==3.0.3
 maxminddb==1.4.1
 mccabe==0.6.1
-mistune==0.8.4
+mistune==2.0.3
 mock==2.0.0
 more-itertools==7.0.0
 msgpack==0.5.6
