@@ -228,7 +228,7 @@ tables==3.5.1
 tb-nightly==1.14.0a20190301
 tensorboard==1.13.0
 tensorflow-estimator==1.13.0
-tensorflow-gpu==1.13.1
+tensorflow-gpu==2.9.3
 termcolor==1.1.0
 terminado==0.8.2
 testfixtures==6.7.0
